@@ -110,6 +110,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/motorola/clark/proprietary/bin/wcnss_filter:system/bin/wcnss_filter \
     vendor/motorola/clark/proprietary/etc/user_bhd_psy.conf:system/etc/user_bhd_psy.conf \
+    vendor/motorola/clark/proprietary/etc/user_dbg_bhd_psy.conf:system/etc/user_dbg_bhd_psy.conf \
     vendor/motorola/clark/proprietary/etc/firmware/nvm_tlv.bin:system/etc/firmware/nvm_tlv.bin \
     vendor/motorola/clark/proprietary/etc/firmware/nvm_tlv_1.3.bin:system/etc/firmware/nvm_tlv_1.3.bin \
     vendor/motorola/clark/proprietary/etc/firmware/nvm_tlv_2.1.bin:system/etc/firmware/nvm_tlv_2.1.bin \
